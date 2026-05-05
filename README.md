@@ -1,71 +1,68 @@
-# Hi, I'm Tamanna 👋
+# Tamanna
 
-🎓 B.Tech CSE @ DCRUST | BS Data Science @ IIT Madras  
-💡 Building AI Systems, Intelligent Agents & Scalable Applications  
-🛡️ Interested in Cybersecurity, FinTech Systems & AI for Decision Making  
+B.Tech CSE @ DCRUST  
+BS Data Science @ IIT Madras  
 
----
-
-## 🚀 About Me
-- I build **real-world AI systems**, not just models
-- Strong focus on **decision systems, explainability & reliability**
-- Exploring **AI + Cybersecurity + System Design**
-- Comfortable working across **ML + Backend + Full Stack**
+I build **practical AI systems** and **end-to-end ML applications** with a focus on decision-making, reliability, and real-world constraints.
 
 ---
 
-## 🧠 Key Projects
+## What I Work On
+- Machine Learning systems (not just models)
+- Decision-focused AI (fraud detection, scoring systems)
+- Backend + ML integration (APIs, pipelines, dashboards)
 
-### 🔹 FraudGuard – Credit Card Fraud Detection
-- XGBoost model trained on 284k+ transactions  
-- Handled extreme imbalance using SMOTE  
+---
+
+## Selected Projects
+
+### Fraud Detection System
+- Built on 284k+ transactions using XGBoost  
+- Tackled extreme class imbalance (SMOTE)  
 - Optimized for **high recall (0.877)**  
-- Integrated **SHAP explainability**  
-- Built full-stack system (Flask API + dashboard)
+- Added **model explainability using SHAP**  
+- Deployed with Flask API + dashboard  
 
-👉 Repo: https://github.com/tamanna26072/fraud-detection  
-
----
-
-### 🔹 LoanSense AI – Autonomous Decision Agent
-- Built using **LangChain ReAct architecture**  
-- Uses Llama 3 (Groq) for multi-step reasoning  
-- Designed **modular tools + structured outputs (Pydantic)**  
-- Focus on **interpretable AI decision pipelines**
+🔗 https://github.com/tamanna26072/fraud-detection  
 
 ---
 
-### 🔹 Placement Portal System
-- Full-stack system using **Vue 3 + Flask**  
-- Role-based access (Admin/User)  
-- Async tasks with **Redis + Celery**
+### Loan Decision Agent
+- Autonomous agent using LangChain (ReAct pattern)  
+- Uses LLM reasoning for multi-step decision making  
+- Structured outputs with Pydantic  
+- Focus on interpretability and modular design  
 
 ---
 
-## ⚙️ Tech Stack
-
-**AI & ML:**  
-Python, Scikit-learn, XGBoost, SHAP, Pandas, NumPy  
-
-**AI Systems & Agents:**  
-LangChain, ReAct Agents, Prompt Engineering, Pydantic  
-
-**Backend & Web:**  
-Flask, REST APIs, Vue.js, SQLAlchemy  
-
-**Tools & Infra:**  
-Git, GitHub, IBM Cloud, Redis, Celery, Linux  
+### Placement Portal
+- Full-stack app (Vue 3 + Flask)  
+- Role-based system (admin/user)  
+- Background jobs with Redis + Celery  
 
 ---
 
-## 🎯 Current Focus
-- AI Agents for real-world applications  
-- AI in Cybersecurity (early exploration)  
-- Building production-ready ML systems  
+## Tech Stack
+
+**ML & Data**  
+Python, Scikit-learn, XGBoost, Pandas, NumPy, SHAP  
+
+**Backend & Systems**  
+Flask, REST APIs, SQLAlchemy, Redis, Celery  
+
+**Frontend**  
+Vue.js, Chart.js  
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/tamanna-43a705288  
-- GitHub: https://github.com/tamanna26072  
-- Email: tamannaramdev26@gmail.com
+## Current Focus
+- Improving ML system design skills  
+- Building more production-style projects  
+- Exploring better ways to combine ML + backend systems  
+
+---
+
+## Links
+GitHub: https://github.com/tamanna26072  
+LinkedIn: https://www.linkedin.com/in/tamanna-43a705288  
+Email: tamannaramdev26@gmail.com
